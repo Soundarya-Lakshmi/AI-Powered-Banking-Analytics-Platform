@@ -12,11 +12,11 @@ It enables users to interact with banking data using plain English and receive b
 
 # Tools
 
-Data Warehouse: Snowflake
-SQL & Data Modeling
-Python (Snowpark)
-UI: Streamlit (inside Snowflake)
-AI/LLM: Snowflake Cortex
+1. Data Warehouse: Snowflake
+2. SQL & Data Modeling
+3. Python (Snowpark)
+4. UI: Streamlit (inside Snowflake)
+5. AI/LLM: Snowflake Cortex
 
 # Key Features
 
