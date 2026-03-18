@@ -1,5 +1,11 @@
 # 📊 AI-Powered Banking Analytics Platform (Snowflake)
 
+![AI_result1](https://github.com/user-attachments/assets/5530e937-2716-4c18-8086-16306dc4d995)
+
+![AI_result2](https://github.com/user-attachments/assets/e05a8a65-7b8e-4c08-81e8-a1fdc15e4371)
+
+![AI_result4](https://github.com/user-attachments/assets/ebc7613b-7c91-4849-8bcc-f6168f7727f4)
+
 # Overview
 
 This project is an end-to-end data analytics platform built using Snowflake, implementing a modern Medallion Architecture (Bronze, Silver, Gold) and enhanced with AI-powered natural language querying.
@@ -64,14 +70,14 @@ Built using Snowflake Snowsight
 
 Interactive UI inside Snowflake
 Users can:
-Ask questions in natural language
-View results instantly
-Get AI-generated insights
+1. Ask questions in natural language
+2. View results instantly
+3. Get AI-generated insights
 
 # Key Learnings
 
-Implemented Medallion Architecture in Snowflake
-Built data validation pipelines using SQL
-Designed business-focused data models
-Integrated LLMs directly within Snowflake
-Developed an AI-powered analytics interface
+1. Implemented Medallion Architecture in Snowflake
+2. Built data validation pipelines using SQL
+3. Designed business-focused data models
+4. Integrated LLMs directly within Snowflake
+5. Developed an AI-powered analytics interface
