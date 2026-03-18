@@ -22,25 +22,25 @@ It enables users to interact with banking data using plain English and receive b
 
 ✅ Data Validation (Silver Layer)
 
-Credit limit violations detection
-Late payment identification
-Invalid date handling
-Balance mismatch validation
-Negative balance checks
+1. Credit limit violations detection
+2. Late payment identification
+3. Invalid date handling
+4. Balance mismatch validation
+5. Negative balance checks
 
 📊 Analytics Layer (Gold)
 
-Customer credit utilization analysis
-Risk identification (high utilization, late payments)
-Business-ready datasets for reporting
+1. Customer credit utilization analysis
+2. Risk identification (high utilization, late payments)
+3. Business-ready datasets for reporting
 
 🤖 AI-Powered Querying
 
-Natural Language → SQL using Snowflake Cortex
-Schema-aware query generation
-Supports questions like:
-"Show customers who exceeded their credit limit"
-"Which customers have late payments?"
+1 Natural Language → SQL using Snowflake Cortex
+2. Schema-aware query generation
+3. Supports questions like:
+4. "Show customers who exceeded their credit limit"
+5. "Which customers have late payments?"
 
 💡 AI Insights Generation
 
@@ -52,10 +52,13 @@ Risk segmentation insights
 📈 Dashboard
 
 Built using Snowflake Snowsight
-KPI tracking:
-Late payments
-Credit utilization
-High-risk customers
+1. KPI tracking:
+2. Late payments
+3. Credit utilization
+4. High-risk customers
+
+![dashboard](https://github.com/user-attachments/assets/fd09d662-dc9c-4111-9e1c-d884d4063f04)
+
 
 🧠 Streamlit AI Assistant
 
